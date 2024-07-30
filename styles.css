@@ -37,10 +37,11 @@ body {
     border-style: none;
     border-radius: 6px;
     background: #10B981;
-    color: white;
+    color: #1C1C1C;
     font-family: "Inter",sans-serif;
-    font-weight: 500;
+    font-weight: 600;
 }
+
 
 hr {
     height: 1px;
